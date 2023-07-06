@@ -1,0 +1,15 @@
+#Files to Ignore
+
+
+#Types of Files
+*.docx
+
+/css/SaveForLater.css
+
+#Folders
+/Img
+/dist
+/build
+
+#Files
+Controller Detection Programme.code-workspace
